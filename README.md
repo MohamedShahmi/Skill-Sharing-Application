@@ -1,7 +1,6 @@
 # Skill Sharing & Learning Platform
 
-A modern web application that facilitates knowledge exchange and learning in the developer community.
-
+A full-featured social platform designed to encourage learning, collaboration, and community building by enabling users to share their skills and track learning progress. Built using Spring Boot and Java, the platform supports media-rich posts, structured learning plans, and interactive features such as likes, comments, and notifications.
 ## Features
 
 1. **Skill Sharing Posts**
